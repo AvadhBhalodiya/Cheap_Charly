@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684535730529",
+    "project_id": "cheapcharly-3bbc3",
+    "storage_bucket": "cheapcharly-3bbc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684535730529:android:d4a1aeba0c0ff96ad43520",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684535730529-a5dupfm915k1aqqres800p8ovofsrjbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD05s-wXZHBAnDzVIeaG0lAQcH1YNxTCUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684535730529-a5dupfm915k1aqqres800p8ovofsrjbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
